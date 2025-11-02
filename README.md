@@ -40,3 +40,4 @@ Developed an interactive Power BI dashboard using **International Coffee Organiz
 ---
 
 ### 🖼️ Dashboard Preview  
+![ICO](https://github.com/user-attachments/assets/38fccd94-0338-4218-9e53-72c9890cf2ea)
